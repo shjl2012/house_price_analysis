@@ -1,4 +1,6 @@
-# 一切程式碼屬於tazz7420
+# 程式碼著作權屬於tazz7420
+## 下載連結詳細
+* 實價登錄資料(https://plvr.land.moi.gov.tw/DownloadOpenData)
 
 # house_price_prediction
 旨在利用實價登錄資料獲得房屋的位置和房地產特徵，環域分析250m、500m、750m以內房屋周遭環境之六大指標，再以機器學習模型預測房價。
@@ -10,7 +12,6 @@
 * 4 公共安全 - 警局、消防局、加油站、宮廟
 * 5 自然環境 - 公園綠地、水岸、墓地
 * 6 交通運輸 - 捷運站、火車站、輕軌站、公車站
-
 
 ## 使用套件
 * pandas、geopandas、sklearn、tensorflow
